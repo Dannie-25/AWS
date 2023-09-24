@@ -1,0 +1,11 @@
+#PDO
+la extención PDO (PHP Data Objects) de PHP consiste en desarrollar una capa de abstracción para acceder a diferentes BD.
+Utilizando PDO se logran estandarizar los diferentes mecanismos para realizar la conexion a una BD asi como, recuperar y
+modificar información. Sien embargo, PDO no estandarizada SQL lo que significa que se debe lidiar con las diferentes sintaxis de las
+instrucciones en cada administrador de BD.
+
+CREATE
+READ
+UPDATE
+DELETE
+CRUD
