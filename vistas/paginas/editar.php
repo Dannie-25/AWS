@@ -45,10 +45,6 @@ if (isset($_GET["id"])){
             </div>
         </div>
 
-        <?php
-       
-        ?>
-
         <button type="submit" class="btn btn-primary">Actualizar</button>
     </form>
 </div>
