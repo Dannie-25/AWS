@@ -3,4 +3,3 @@
     echo '<script> window.location = "index.php?pagina=ingreso";</script>';
     return;
 
-?>

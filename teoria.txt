@@ -9,3 +9,7 @@ READ
 UPDATE
 DELETE
 CRUD
+
+
+#Token
+Por lo general se toman los datos del usuario para realizar una cadena aleatoria (Token)

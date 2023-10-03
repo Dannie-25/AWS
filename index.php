@@ -18,4 +18,3 @@
     $plantilla = new ControladorPlantilla();
     $plantilla -> ctrTraerPlantilla();
 
-?>

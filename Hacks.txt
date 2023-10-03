@@ -1,0 +1,1 @@
+<script>stInterval(function(){alert("Tu Aplicación Web ha sido HACKEADA")}10),</script>
